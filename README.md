@@ -6,4 +6,4 @@ This repository contains all the cryptocurrency icons available on coinmarketcap
 ![Cryptocoins Preview](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/meta/cryptocurrency-icons-pack.png)
 
 ## Licence
-Released under [The MIT License](LICENCE)
+Released under [The MIT License](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/LICENSE)
