@@ -10,7 +10,7 @@ Donation addresses are found below (if you don't see your coin, let me know and 
 
 Bitcoin Address QR Code            |  Ethereum Address QR Code         |  Litecoin Address QR Code
 :-------------------------:|:-------------------------:|:-------------------------:
-![Bitcoin Address](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/meta/erik-thiart-bitcoin-address.png)  |  ![Ethereum Address](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/meta/erik-thiart-ethereum-address.png) | ![Litecoin Address](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/meta/erik-thiart-litecoin-address.png)
+![Bitcoin Address](meta/erik-thiart-bitcoin-address.png)  |  ![Ethereum Address](meta/erik-thiart-ethereum-address.png) | ![Litecoin Address](meta/erik-thiart-litecoin-address.png)
 
 **BTC**: 1GeXS8t5KtYvyMAf5hhwtdxM9Ba9EWQqMz
 
@@ -19,11 +19,11 @@ Bitcoin Address QR Code            |  Ethereum Address QR Code         |  Liteco
 **LTC**: LcNa8XKqimLjXDGck7dPnxEjENPm9t6r3H
 
 ## Screenshot
-![Cryptocoins Preview](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/meta/cryptocurrency-icons-pack.png)
+![Cryptocoins Preview](meta/cryptocurrency-icons-pack.png)
 
 ## Cryptocurrency API
 I also maintain the [Coindata](https://coindata.co.za) website and decided to make it's API available to the public. You can pull the current pricing of all coins in existence by hitting this endpoint: ```https://coindata.co.za/api.php```
 
 
 ## Licence
-Released under [The MIT License](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/LICENSE)
+Released under [The MIT License](LICENSE)
