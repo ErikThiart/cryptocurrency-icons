@@ -22,7 +22,9 @@ Bitcoin Address QR Code            |  Ethereum Address QR Code         |  Liteco
 ![Cryptocoins Preview](meta/cryptocurrency-icons-pack.png)
 
 ## Cryptocurrency API
-I also maintain the [Coindata](https://coindata.co.za) website and decided to make it's API available to the public. You can pull the current pricing of all coins in existence by hitting this endpoint: ```https://coindata.co.za/api.php```
+I also maintain the [Coindata](https://cryptocurrencyliveprices.com/) website and decided to make it's API available to the public. 
+### ToDo
+You can pull the current pricing of all coins in existence by hitting this endpoint: ```https://coindata.co.za/api.php```
 
 ## List of all the coin icons
 * 0x.png
