@@ -1,7 +1,7 @@
 # Cryptocurrency Icons
 **The official cryptocurrency icon pack for all your favourite cryptocurrencies.**
 
-This repository contains all the cryptocurrency icons available on coinmarketcap.com
+This repository contains all the cryptocurrency icons available on [coinmarketcap.com](https://cryptocurrencyliveprices.com/)
 
 ## Donations
 **This is all voluntary work**, so if you want to support my efforts [please donate](https://erikthiart.com/donations.php). 
@@ -24,7 +24,7 @@ Bitcoin Address QR Code            |  Ethereum Address QR Code         |  Liteco
 ## Cryptocurrency API
 I also maintain the [Coindata](https://cryptocurrencyliveprices.com/) website and decided to make it's API available to the public. 
 ### ToDo
-You can pull the current pricing of all coins in existence by hitting this endpoint: ```https://coindata.co.za/api.php```
+You can pull the current pricing of all coins in existence by hitting this endpoint: ```https://cryptocurrencyliveprices.com/api/```
 
 ## List of all the coin icons
 * 0x.png
