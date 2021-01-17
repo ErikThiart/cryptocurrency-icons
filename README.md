@@ -6,7 +6,7 @@ This repository contains all the cryptocurrency icons available on [coinmarketca
 ## Donations
 **This is all voluntary work**, so if you want to support my efforts [please donate](https://erikthiart.com/donations.php). 
 
-Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
+Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards) alternatively you can use paypal too [paypal.me/erikthiart](paypal.me/erikthiart)
 
 Bitcoin Address QR Code            |  Ethereum Address QR Code         |  Litecoin Address QR Code
 :-------------------------:|:-------------------------:|:-------------------------:
