@@ -2328,8 +2328,6 @@ You can pull the current pricing of all coins in existence by hitting this endpo
 * [obee-network.png](https://cryptocurrencyliveprices.com/coin.php?id=obee-network "Obee Network (OBEE)") ![Obee Network](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/obee-network.png "Obee Network (OBEE)")
 * [bitwhite.png](https://cryptocurrencyliveprices.com/coin.php?id=bitwhite "BitWhite (BTW)") ![BitWhite](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitwhite.png "BitWhite (BTW)")
 * [proxynode.png](https://cryptocurrencyliveprices.com/coin.php?id=proxynode "ProxyNode (PRX)") ![ProxyNode](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/proxynode.png "ProxyNode (PRX)")
-* [fidex-token.png](https://cryptocurrencyliveprices.com/coin.php?id=fidex-token "FidexToken (FEX)") ![FidexToken](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/fidex-token.png "FidexToken (FEX)")
-icons/master/16/soar-fi.png "SOAR.FI (SOAR)")
 
 
 ## Licence
