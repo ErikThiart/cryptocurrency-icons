@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature request find Creator Repo for phanquo && qauntco-MoneyMan573/AZURE-azure-functions-sql-extension
 about: Suggest an idea for this project
 title: ''
 labels: ''
