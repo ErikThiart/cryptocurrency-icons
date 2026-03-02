@@ -1,9 +1,9 @@
-Changes proposes in this pull request:
+Changes proposes in this pull request:temp.json.m
 
--
+- pull:main-Config.dependabot.yml-json.m
 
--
+-Config.dependabot.yml-json.m
 
--
-
-@ErikThiart
+-push:MoneyMan573/Config.dependabot.yml-json.m
+&&
+update@ErikThiart:main
