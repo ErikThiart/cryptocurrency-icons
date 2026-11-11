@@ -1,0 +1,32 @@
+name: Refresh Crypto Icon Finder
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: refresh-crypto-icon-finder
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Refresh the live finder cache
+        shell: bash
+        env:
+          CRYPTO_ICON_REFRESH_TOKEN: ${{ secrets.CRYPTO_ICON_REFRESH_TOKEN }}
+        run: |
+          test -n "$CRYPTO_ICON_REFRESH_TOKEN"
+          response="$RUNNER_TEMP/crypto-icon-refresh.json"
+          printf 'X-Crypto-Refresh-Token: %s\n' "$CRYPTO_ICON_REFRESH_TOKEN" |
+            curl --silent --show-error --fail-with-body --proto '=https' \
+              --connect-timeout 5 --max-time 35 --retry 2 --retry-delay 3 \
+              --retry-max-time 65 --request POST --header @- --output "$response" \
+              https://erikthiart.com/tools/refresh-crypto-icon-index.php
+          jq -ce 'select((.commit | test("^[0-9a-f]{40}$")) and (.count > 0))' "$response"
