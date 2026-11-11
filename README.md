@@ -14,6 +14,8 @@ Copy this HTML to display the 32 px Bitcoin icon:
 
 <img src="meta/cryptocurrency-icons-pack.png" width="360" alt="Preview of the cryptocurrency icon collection">
 
+Use the [Crypto Icon Finder](https://erikthiart.com/tools/crypto-icon-finder.php) to search by coin name or ticker, preview icons, and copy the HTML embed.
+
 ## Donations
 **This is all voluntary work**, so if you want to support my efforts [please donate](https://erikthiart.com/donate-or-buy-me-coffee.php). 
 
